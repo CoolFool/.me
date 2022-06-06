@@ -141,7 +141,7 @@ const About = () => {
             </p>
             <p>
               Python is still my go-to language but I am comfortable and familiar with Javascript (ES6+) and Golang which I have used in my projects.
-              My main interests lies in building and maintaining scalable and resilient backend systems.  {/*I have hands-on experience with maintaining and setting up systems and servers on physical machines as well as on the cloud.*/}
+              My main interest lies in building and maintaining scalable and resilient backend systems.  {/*I have hands-on experience with maintaining and setting up systems and servers on physical machines as well as on the cloud.*/}
             </p>
             {/*<p>
               I also like to break applications and systems to know more about them or just to make it do something is was intended to,
