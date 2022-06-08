@@ -3,7 +3,7 @@ date: '4'
 title: 'Casadora'
 cover: './casadora.png'
 github: 'https://github.com/coolfool/casadora'
-external: 'https://github.com/coolfool/casadora'
+external: ''
 ios: ''
 android: ''
 tech:

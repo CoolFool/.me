@@ -3,6 +3,7 @@ date: '3'
 title: 'FlareUp'
 cover: './flareup.png'
 github: 'https://github.com/coolfool/flareup'
+external: ''
 cta: ''
 
 tech:
