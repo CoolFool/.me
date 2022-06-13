@@ -171,7 +171,7 @@ const About = () => {
               &amp; React.
             </p>*/}
 
-            <p>Here are a few technologies I am proficient at:</p>
+            <p>Here are a few technologies I am fairly proficient at:</p>
           </div>
 
           <ul className="skills-list">
